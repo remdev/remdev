@@ -26,8 +26,8 @@ I'm @remdev.
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(gigachat): add provider integration](https://github.com/openclaw/openclaw/pull/83292) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (today)
 - [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77490) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 week ago)
 - [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77463) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 week ago)
 - [feat(client): extra headers and optional http/1.1 default transport](https://github.com/remdev/go-activesync/pull/2) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (2 weeks ago)
 - [Typed sync payloads](https://github.com/remdev/go-activesync/pull/1) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (2 weeks ago)
-- [docs: CONTRIBUTING для контрибьюторов лендинга (XDE-121)](https://github.com/getskillpack/landing/pull/2) on [getskillpack/landing](https://github.com/getskillpack/landing) (1 month ago)
