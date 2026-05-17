@@ -2,23 +2,32 @@
 
 I'm @remdev.
 
-## 🚀 Recent Projects
-<!--START_SECTION:recent_projects-->
-- [PHP-ccex-api](https://github.com/remdev/PHP-ccex-api) — C-cex.com Api class
-- [awesome-typespec](https://github.com/remdev/awesome-typespec)
-- [go-activesync](https://github.com/remdev/go-activesync) — Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
-- [Pushall](https://github.com/remdev/Pushall) — Pushall PHP client
-<!--END_SECTION:recent_projects-->
+#### 👷 Check out what I'm currently working on
 
-## 📈 Recent Activity
-<!--START_SECTION:recent_activity-->
-- Delete in [remdev/remdev](https://github.com/remdev/remdev)
-- Push in [remdev/remdev](https://github.com/remdev/remdev)
-- Create in [remdev/remdev](https://github.com/remdev/remdev)
-- PullRequest in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-- Push in [remdev/openclaw](https://github.com/remdev/openclaw)
-- Push in [remdev/openclaw](https://github.com/remdev/openclaw)
-- Push in [remdev/openclaw](https://github.com/remdev/openclaw)
-- Push in [remdev/openclaw](https://github.com/remdev/openclaw)
-- Push in [remdev/openclaw](https://github.com/remdev/openclaw)
-<!--END_SECTION:recent_activity-->
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
+- [remdev/go-activesync](https://github.com/remdev/go-activesync) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications. (2 weeks ago)
+- [getskillpack/cli](https://github.com/getskillpack/cli) - skillget CLI (@getskillpack/cli) (1 month ago)
+- [getskillpack/landing](https://github.com/getskillpack/landing) - Public static landing for getskillpack / skillget (GitHub Pages). (1 month ago)
+- [getskillpack/skillget-manager](https://github.com/getskillpack/skillget-manager) - Core skill package manager library (lockfile, registry client, install) — getskillpack (1 month ago)
+
+#### 🌱 My latest projects
+
+- [remdev/go-activesync](https://github.com/remdev/go-activesync) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
+- [remdev/awesome-typespec](https://github.com/remdev/awesome-typespec)
+- [remdev/Pushall](https://github.com/remdev/Pushall) - Pushall PHP client
+- [remdev/PHP-ccex-api](https://github.com/remdev/PHP-ccex-api) - C-cex.com Api class
+
+#### 🔭 Latest releases I've contributed to
+
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.5.16-beta.4](https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.4), today) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ([v2026.513.0](https://github.com/paperclipai/paperclip/releases/tag/v2026.513.0), 4 days ago) - The open-source app everyone uses to manage agents at work
+- [remdev/go-activesync](https://github.com/remdev/go-activesync) ([v0.0.2](https://github.com/remdev/go-activesync/releases/tag/v0.0.2), 2 weeks ago) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
+- [getskillpack/registry](https://github.com/getskillpack/registry) ([v0.1.0](https://github.com/getskillpack/registry/releases/tag/v0.1.0), 1 month ago) - Skill registry: API spec and backend (getskillpack)
+
+#### 🔨 Latest Pull Requests I published
+
+- [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77490) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 week ago)
+- [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77463) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 week ago)
+- [feat(client): extra headers and optional http/1.1 default transport](https://github.com/remdev/go-activesync/pull/2) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (2 weeks ago)
+- [Typed sync payloads](https://github.com/remdev/go-activesync/pull/1) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (2 weeks ago)
+- [docs: CONTRIBUTING для контрибьюторов лендинга (XDE-121)](https://github.com/getskillpack/landing/pull/2) on [getskillpack/landing](https://github.com/getskillpack/landing) (1 month ago)
