@@ -26,8 +26,8 @@ I'm @remdev.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Feature/eas query profile](https://github.com/remdev/go-activesync/pull/3) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (today)
 - [feat(gigachat): add provider integration](https://github.com/openclaw/openclaw/pull/83292) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 day ago)
 - [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77490) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (2 weeks ago)
 - [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77463) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (2 weeks ago)
 - [feat(client): extra headers and optional http/1.1 default transport](https://github.com/remdev/go-activesync/pull/2) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (2 weeks ago)
-- [Typed sync payloads](https://github.com/remdev/go-activesync/pull/1) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (2 weeks ago)
