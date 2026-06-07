@@ -19,7 +19,7 @@ I'm @remdev.
 
 #### 🔭 Latest releases I've contributed to
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.6.5-beta.1](https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.1), today) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.6.5-beta.2](https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.2), today) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ([v2026.529.0](https://github.com/paperclipai/paperclip/releases/tag/v2026.529.0), 1 week ago) - The open-source app everyone uses to manage agents at work
 - [remdev/go-activesync](https://github.com/remdev/go-activesync) ([v0.0.4](https://github.com/remdev/go-activesync/releases/tag/v0.0.4), 1 week ago) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
 - [getskillpack/registry](https://github.com/getskillpack/registry) ([v0.1.0](https://github.com/getskillpack/registry/releases/tag/v0.1.0), 2 months ago) - Skill registry: API spec and backend (getskillpack)
@@ -27,7 +27,7 @@ I'm @remdev.
 #### 🔨 Latest Pull Requests I published
 
 - [Feature/eas query profile](https://github.com/remdev/go-activesync/pull/3) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (2 weeks ago)
-- [feat(gigachat): add provider integration](https://github.com/openclaw/openclaw/pull/83292) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (2 weeks ago)
+- [feat(gigachat): add provider integration](https://github.com/openclaw/openclaw/pull/83292) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (3 weeks ago)
 - [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77490) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 month ago)
 - [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77463) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 month ago)
 - [feat(client): extra headers and optional http/1.1 default transport](https://github.com/remdev/go-activesync/pull/2) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (1 month ago)
