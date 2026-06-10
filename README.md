@@ -4,7 +4,7 @@ I'm @remdev.
 
 #### 👷 Check out what I'm currently working on
 
-- [remdev/go-activesync](https://github.com/remdev/go-activesync) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications. (1 week ago)
+- [remdev/go-activesync](https://github.com/remdev/go-activesync) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications. (2 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [getskillpack/cli](https://github.com/getskillpack/cli) - skillget CLI (@getskillpack/cli) (2 months ago)
 - [getskillpack/landing](https://github.com/getskillpack/landing) - Public static landing for getskillpack / skillget (GitHub Pages). (2 months ago)
@@ -19,9 +19,9 @@ I'm @remdev.
 
 #### 🔭 Latest releases I've contributed to
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ([v2026.609.0](https://github.com/paperclipai/paperclip/releases/tag/v2026.609.0), today) - The open-source app everyone uses to manage agents at work
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.6.5](https://github.com/openclaw/openclaw/releases/tag/v2026.6.5), today) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [remdev/go-activesync](https://github.com/remdev/go-activesync) ([v0.0.4](https://github.com/remdev/go-activesync/releases/tag/v0.0.4), 1 week ago) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ([v2026.609.0](https://github.com/paperclipai/paperclip/releases/tag/v2026.609.0), 1 day ago) - The open-source app everyone uses to manage agents at work
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.6.5](https://github.com/openclaw/openclaw/releases/tag/v2026.6.5), 1 day ago) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [remdev/go-activesync](https://github.com/remdev/go-activesync) ([v0.0.4](https://github.com/remdev/go-activesync/releases/tag/v0.0.4), 2 weeks ago) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
 - [getskillpack/registry](https://github.com/getskillpack/registry) ([v0.1.0](https://github.com/getskillpack/registry/releases/tag/v0.1.0), 2 months ago) - Skill registry: API spec and backend (getskillpack)
 
 #### 🔨 Latest Pull Requests I published
