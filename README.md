@@ -27,8 +27,8 @@ I'm @remdev.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Bump bridge to 0.0.1 and refresh npm dependencies within upstream lim…](https://github.com/remdev/cursor-go-sdk/pull/6) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (today)
 - [Bridge/npm adapter trim](https://github.com/remdev/cursor-go-sdk/pull/5) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (today)
 - [Feature/eas query profile](https://github.com/remdev/go-activesync/pull/3) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (3 weeks ago)
 - [feat(gigachat): add provider integration](https://github.com/openclaw/openclaw/pull/83292) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (3 weeks ago)
 - [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77490) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 month ago)
-- [feat(openrouter): add inbound audio STT support](https://github.com/openclaw/openclaw/pull/77463) on [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 month ago)
