@@ -20,7 +20,7 @@ I'm @remdev.
 
 #### 🔭 Latest releases I've contributed to
 
-- [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) ([v0.0.2](https://github.com/remdev/cursor-go-sdk/releases/tag/v0.0.2), today) - Unofficial community Go SDK for Cursor agents. Not affiliated with Cursor or Anysphere.
+- [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) ([v0.0.3](https://github.com/remdev/cursor-go-sdk/releases/tag/v0.0.3), today) - Unofficial community Go SDK for Cursor agents. Not affiliated with Cursor or Anysphere.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.6.8-beta.1](https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.1), 1 day ago) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ([v2026.609.0](https://github.com/paperclipai/paperclip/releases/tag/v2026.609.0), 6 days ago) - The open-source app everyone uses to manage agents at work
 - [remdev/go-activesync](https://github.com/remdev/go-activesync) ([v0.0.4](https://github.com/remdev/go-activesync/releases/tag/v0.0.4), 2 weeks ago) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
@@ -28,8 +28,8 @@ I'm @remdev.
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add Cursor Agent SDK as opt-in review backend](https://github.com/alibaba/open-code-review/pull/140) on [alibaba/open-code-review](https://github.com/alibaba/open-code-review) (today)
+- [fix: custom tool registration after CreateAgent returns agentId.](https://github.com/remdev/cursor-go-sdk/pull/8) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (today)
+- [feat(llm): add Cursor Agent SDK as opt-in review backend](https://github.com/alibaba/open-code-review/pull/140) on [alibaba/open-code-review](https://github.com/alibaba/open-code-review) (today)
 - [Feat/bridge setup](https://github.com/remdev/cursor-go-sdk/pull/7) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (1 day ago)
 - [Bump bridge to 0.0.1 and refresh npm dependencies within upstream lim…](https://github.com/remdev/cursor-go-sdk/pull/6) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (2 days ago)
 - [Bridge/npm adapter trim](https://github.com/remdev/cursor-go-sdk/pull/5) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (2 days ago)
-- [Feature/eas query profile](https://github.com/remdev/go-activesync/pull/3) on [remdev/go-activesync](https://github.com/remdev/go-activesync) (4 weeks ago)
