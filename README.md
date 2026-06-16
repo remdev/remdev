@@ -29,7 +29,7 @@ I'm @remdev.
 #### 🔨 Latest Pull Requests I published
 
 - [fix: custom tool registration after CreateAgent returns agentId.](https://github.com/remdev/cursor-go-sdk/pull/8) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (1 day ago)
-- [feat(llm): add Cursor Agent SDK as opt-in review backend](https://github.com/alibaba/open-code-review/pull/140) on [alibaba/open-code-review](https://github.com/alibaba/open-code-review) (1 day ago)
+- [[WIP] feat(llm): add Cursor Agent SDK as opt-in review backend](https://github.com/alibaba/open-code-review/pull/140) on [alibaba/open-code-review](https://github.com/alibaba/open-code-review) (1 day ago)
 - [Feat/bridge setup](https://github.com/remdev/cursor-go-sdk/pull/7) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (2 days ago)
 - [Bump bridge to 0.0.1 and refresh npm dependencies within upstream lim…](https://github.com/remdev/cursor-go-sdk/pull/6) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (3 days ago)
 - [Bridge/npm adapter trim](https://github.com/remdev/cursor-go-sdk/pull/5) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (3 days ago)
