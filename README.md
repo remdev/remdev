@@ -20,8 +20,8 @@ I'm @remdev.
 
 #### 🔭 Latest releases I've contributed to
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.6.11-beta.2](https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.2), today) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ([v2026.626.0](https://github.com/paperclipai/paperclip/releases/tag/v2026.626.0), 1 day ago) - The open-source app everyone uses to manage agents at work
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.6.11-beta.1](https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1), 4 days ago) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) ([v0.0.3](https://github.com/remdev/cursor-go-sdk/releases/tag/v0.0.3), 1 week ago) - Unofficial community Go SDK for Cursor agents. Not affiliated with Cursor or Anysphere.
 - [remdev/go-activesync](https://github.com/remdev/go-activesync) ([v0.0.4](https://github.com/remdev/go-activesync/releases/tag/v0.0.4), 1 month ago) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
 - [getskillpack/registry](https://github.com/getskillpack/registry) ([v0.1.0](https://github.com/getskillpack/registry/releases/tag/v0.1.0), 3 months ago) - Skill registry: API spec and backend (getskillpack)
