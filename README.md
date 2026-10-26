@@ -12,11 +12,11 @@ I'm @remdev.
 
 #### 🌱 My latest projects
 
+- [remdev/skills](https://github.com/remdev/skills)
 - [remdev/go-tsp](https://github.com/remdev/go-tsp) - Typespec
 - [remdev/go-cml](https://github.com/remdev/go-cml)
 - [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) - Unofficial community Go SDK for Cursor agents. Not affiliated with Cursor or Anysphere.
 - [remdev/go-activesync](https://github.com/remdev/go-activesync) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications.
-- [remdev/awesome-typespec](https://github.com/remdev/awesome-typespec)
 
 #### 🔭 Latest releases I've contributed to
 
