@@ -4,11 +4,11 @@ I'm @remdev.
 
 #### 👷 Check out what I'm currently working on
 
+- [remdev/skills](https://github.com/remdev/skills) (today)
 - [remdev/go-cml](https://github.com/remdev/go-cml) (1 week ago)
 - [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) - Unofficial community Go SDK for Cursor agents. Not affiliated with Cursor or Anysphere. (3 months ago)
 - [remdev/go-activesync](https://github.com/remdev/go-activesync) - Pure-Go client library for Microsoft Exchange ActiveSync (EAS) 14.1 — WBXML codec, Autodiscover, Provision, FolderSync, Sync and Ping commands with typed Email, Calendar, Contacts and Tasks models. Spec-first (TDD) against the MS-ASWBXML / MS-ASCMD / MS-ASHTTP open specifications. (5 months ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  (5 months ago)
-- [getskillpack/cli](https://github.com/getskillpack/cli) - skillget CLI (@getskillpack/cli) (7 months ago)
 
 #### 🌱 My latest projects
 
