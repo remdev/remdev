@@ -28,8 +28,8 @@ I'm @remdev.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Security hardening: scoped agent keys, restricted callbacks, safe attribution and paging](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/4) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (today)
 - [docs: adopt OpenSpec spec-driven workflow for Twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/3) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (today)
 - [test: end-to-end Twinmate against real Mattermost and MCP](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/2) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (1 day ago)
 - [feat: Twinmate personal AI twins with REST/MCP agent access](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/1) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (1 day ago)
 - [fix: custom tool registration after CreateAgent returns agentId.](https://github.com/remdev/cursor-go-sdk/pull/8) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (4 months ago)
-- [[WIP] feat(llm): add Cursor Agent SDK as opt-in review backend](https://github.com/alibaba/open-code-review/pull/140) on [alibaba/open-code-review](https://github.com/alibaba/open-code-review) (4 months ago)
