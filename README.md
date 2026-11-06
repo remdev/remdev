@@ -28,8 +28,8 @@ I'm @remdev.
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: reset Twinmate to design-first foundation](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/5) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (today)
 - [Security hardening: scoped agent keys, restricted callbacks, safe attribution and paging](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/4) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (2 days ago)
 - [docs: adopt OpenSpec spec-driven workflow for Twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/3) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (2 days ago)
 - [test: end-to-end Twinmate against real Mattermost and MCP](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/2) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (3 days ago)
 - [feat: Twinmate personal AI twins with REST/MCP agent access](https://github.com/dark-software-factory/mattermost-plugin-twinmate/pull/1) on [dark-software-factory/mattermost-plugin-twinmate](https://github.com/dark-software-factory/mattermost-plugin-twinmate) (3 days ago)
-- [fix: custom tool registration after CreateAgent returns agentId.](https://github.com/remdev/cursor-go-sdk/pull/8) on [remdev/cursor-go-sdk](https://github.com/remdev/cursor-go-sdk) (4 months ago)
